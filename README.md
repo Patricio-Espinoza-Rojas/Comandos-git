@@ -11,3 +11,6 @@
 
 9. git checkout master (para cambiar de rama, el nombre master es el nombre de la rama a la que se desea cambiar)
 
+10. git branch -d rama-heroes (este comando es para borrar una rama el -d es por delete y en este ejemplo la rama-heroes es el nombre de la rama que deseamos borrar)
+
+11. git push (este comando es para subir los cambios hechos)
