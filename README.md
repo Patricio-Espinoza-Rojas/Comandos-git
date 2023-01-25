@@ -13,5 +13,8 @@
 
 10. git branch -d rama-heroes (este comando es para borrar una rama el -d es por delete y en este ejemplo la rama-heroes es el nombre de la rama que deseamos borrar)
 
-11. git push (este comando es para subir los cambios hechos)
-12. git commit -am (este comando es para hacer el add . y el commit en un solo comando)
+11. git remote add origin https://github.com/Patricio-Espinoza-Rojas/Libro-Python-en-un-fin-de-semana-.git (este comando es para poder apunntar el push a un repositorio el cual se debe seńalar despues del origin)
+
+12. git push (este comando es para subir los cambios hechos)
+13. git commit -am "" (este comando es para hacer el add . y el commit en un solo comando)
+14. git remote -v (es para ver a hacia que repositorio esta apuntando).
