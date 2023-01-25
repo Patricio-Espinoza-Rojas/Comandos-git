@@ -9,3 +9,5 @@
 7. git commit --amend (es para editar los commit ,una vez el comando ingresado se debe presionar i para ingresar los datos y luego de tener los datos editados se debe presionar esc luego : seguido de w luego el comando q para salir y finalmente ! para que lo haga inmediatamente el comando completo es :wq! )
 8. git checkout -b rama-heroes (para crear una rama nueva, el -b signica branch en este ejemplo el rama-heroes seria el nombre de la rama)
 
+9. git checkout master (para cambiar de rama, el nombre master es el nombre de la rama a la que se desea cambiar)
+
